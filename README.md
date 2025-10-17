@@ -96,6 +96,18 @@ if (filteredValue > PEAK_THRESHOLD &&
 
 ## Results & Analysis
 
+![complete assembly](media/complete-assembly.png)
+
+*Complete assembly with ECG card and OLED matrix*
+
+![complete assembly](media/raw-ecg-signal.png)
+
+*Raw signal recorded and observed on the oscilloscope*
+
+![complete assembly](media/bpm-display.PNG)
+
+*Example of BPM display on our OLED matrix*
+
 ### What Worked
  - Electrode fabrication process validated  
  - Analog circuit functional (signal visible on oscilloscope)  
