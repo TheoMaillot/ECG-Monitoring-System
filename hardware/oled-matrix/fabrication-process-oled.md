@@ -25,7 +25,7 @@
 - Target thickness: [specify]
 - Pressure: <10⁻⁶ mbar
 
-<img src="img/p++-.png" width="500">
+<img src="img/p++.png" width="500">
 
 **Observations**:
 - Uniform deposition across active area
