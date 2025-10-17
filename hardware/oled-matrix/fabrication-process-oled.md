@@ -176,7 +176,7 @@ UV (365nm) + O₂ → O₃ (ozone)
 2Al + 3O₃ → Al₂O₃ (aluminum oxide)
 ```
 
-<img src="img/passivation.png" width="500">
+<img src="img/passivation.PNG" width="500">
 
 *Schematic: Ozone formation during UV curing oxidizes cathode*
 
