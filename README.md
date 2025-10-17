@@ -120,8 +120,6 @@ if (filteredValue > PEAK_THRESHOLD &&
 ## Technical Documentation
 
 - [Full Technical Report](docs/full-report.pdf) (19 pages, in French)
-- [Electrode Fabrication Process](hardware/electrodes/fabrication-process.md)
-- [Signal Processing Pipeline](docs/signal-processing-details.md)
 - [Lessons Learned](docs/lessons-learned.md)
 
 ## Skills Demonstrated
