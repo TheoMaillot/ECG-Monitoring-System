@@ -117,26 +117,6 @@ if (filteredValue > PEAK_THRESHOLD &&
 - **Electrode mobility**: μ_avg = 7.2×10⁻⁹ m²/Vs (limited by short-circuit)
 - **ADC resolution**: 0.8mV theoretical (12-bit @ 3.3V range)
 
-## 🔧 Build Instructions
-
-### Prerequisites
-- STM32CubeIDE 1.x
-- ARM GCC toolchain
-- ST-Link programmer
-
-### Compilation
-```bash
-cd firmware/STM32CubeIDE_project
-# Open in STM32CubeIDE and build
-# Or use command line:
-make clean && make all
-```
-
-### Upload
-```bash
-st-flash write build/ecg-monitor.bin 0x8000000
-```
-
 ## Technical Documentation
 
 - [Full Technical Report](docs/full-report.pdf) (19 pages, in French)
