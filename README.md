@@ -2,7 +2,7 @@
 
 **Real-time cardiac monitoring system featuring cleanroom-fabricated flexible electrodes, analog signal conditioning, and embedded DSP on STM32 microcontroller.**
 
-![System Overview](media/system-complete.jpg)
+![System Overview](media/system-overview.png)
 
 ## Project Highlights
 
