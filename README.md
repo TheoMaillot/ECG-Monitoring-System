@@ -164,15 +164,5 @@ st-flash write build/ecg-monitor.bin 0x8000000
 - PCB assembly and debugging
 - Electrochemical characterization
 
-## Future Improvements
-
-If I were to iterate on this project:
-1. **Buffering strategy**: Add analog DC offset to handle negative voltages
-2. **Modular testing**: Validate each subsystem independently before integration
-3. **PEDOT deposition**: Automated process for better uniformity
-4. **Arrhythmia detection**: Analyze RR interval variability
-5. **Wireless transmission**: Add BLE module for mobile app
-
----
 
 *This project demonstrates end-to-end system development from atoms to algorithms: microfabrication → analog electronics → embedded firmware → signal processing.*
