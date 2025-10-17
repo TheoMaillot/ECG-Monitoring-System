@@ -33,7 +33,7 @@ Flexible Electrodes → Instrumentation Amp (37dB) → STM32 ADC → Digital Fil
 
 **Key Result**: Lower impedance than commercial electrodes in 10-100Hz range (cardiac signal band)
 
-![Impedance Comparison](hardware/electrodes/impedance-results/nyquist-plot.png)
+![Impedance Comparison](hardware/electrodes/impedance-results/impedance-plot.png)
 
 *Green: Custom electrodes | Purple: Commercial reference*
 
