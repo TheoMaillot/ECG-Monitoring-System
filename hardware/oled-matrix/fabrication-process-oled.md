@@ -128,7 +128,7 @@
 
 ---
 
-### Initial Functional Test ✅
+### Initial Functional Test
 
 **Before encapsulation**:
 - Applied voltage: 9V
@@ -155,7 +155,7 @@
 
 <img src="img/encapsulation-UV.PNG" width="500">
 
-** CRITICAL FAILURE POINT**
+**CRITICAL FAILURE POINT**
 
 ---
 
