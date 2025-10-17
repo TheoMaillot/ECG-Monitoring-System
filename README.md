@@ -2,11 +2,11 @@
 
 **Real-time cardiac monitoring system featuring cleanroom-fabricated flexible electrodes, analog signal conditioning, and embedded DSP on STM32 microcontroller.**
 
-![System Overview](media/system-overview.png)
+
 
 ## Project Highlights
 
-- **Cleanroom Microfabrication**: Gold/PEDOT electrodes on flexible Kapton substrate (50μm)
+- **Cleanroom Microfabrication**: Gold/PEDOT electrodes on flexible Kapton substrate (50μm) and OLED matrix via thermal evaporation under inert atmosphere
 - **Low-Level Embedded**: STM32L432 with custom ADC pipeline (1500 Hz, 12-bit)
 - **Real-Time DSP**: FIR bandpass + Kalman filtering, Pan-Tompkins peak detection
 - **Full Stack**: Analog conditioning → firmware → SPI display driver
@@ -16,12 +16,8 @@
 ---
 
 ## System Architecture
-```
-Flexible Electrodes → Instrumentation Amp (37dB) → STM32 ADC → Digital Filters → Heart Rate Detection
-                                                           ↓
-                                                    MAX7219 → LED Matrix
-                                                    UART → Serial Plot
-```
+
+![System Overview](media/system-overview.png)
 
 ## Hardware: Custom Electrode and OLED screen Fabrication
 
