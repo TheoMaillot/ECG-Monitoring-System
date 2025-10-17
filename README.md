@@ -56,7 +56,8 @@ Flexible Electrodes → Instrumentation Amp (37dB) → STM32 ADC → Digital Fil
 **Critical Failure**: UV curing generated ozone (O₃) which oxidized the aluminum cathode, creating an insulating Al₂O₃ layer. Matrix functioned during initial test but failed after encapsulation.
 
 ![OLED schema](hardware/oled-matrix/oled-schema.png)![OLED test](hardware/oled-matrix/oled-test.png)
-*Left: Schema of the finished OLED matrix | Right: Initial pixel test at 9V*
+
+*Top: Schema of the finished OLED matrix | Bottom: Initial pixel test at 9V*
 
 ### Signal Conditioning Circuit
 - Differential instrumentation amplifier (high CMRR)
