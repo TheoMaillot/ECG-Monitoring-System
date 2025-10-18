@@ -128,8 +128,8 @@ if (filteredValue > PEAK_THRESHOLD &&
 ## Technical Documentation
 
 - [Full Technical Report](docs/full-report.pdf) (19 pages, in French)
-- [Electrode fabrication process](hardware/électrode/fabrication-process-electrode.md)
-- [OLED fabrication process](hardware/électrode/fabrication-process-oled.md)
+- [Electrodes fabrication process](hardware/electrodes/fabrication-process-electrode.md)
+- [OLED fabrication process](hardware/oled-matrix/fabrication-process-oled.md)
 - [Lessons Learned](docs/lessons-learned.md)
 
 ## Skills Demonstrated
