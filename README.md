@@ -1,6 +1,6 @@
 # ECG Monitoring System with Custom OLED screen and Biosensors
 
-**Real-time cardiac monitoring system featuring cleanroom-fabricated flexible electrodes, analog signal conditioning, and embedded DSP on STM32 microcontroller.**
+**Real-time cardiac monitoring system featuring cleanroom-fabricated flexible electrodes and OLED screen, analog signal conditioning, and embedded DSP on STM32 microcontroller.**
 
 
 
